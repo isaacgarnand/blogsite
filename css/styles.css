@@ -1,0 +1,11 @@
+.main {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.aboutMe {
+  margin: 90px;
+  font-style: italic;
+  padding: 100px;
+  background-color: brown;
+}
